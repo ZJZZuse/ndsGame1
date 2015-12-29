@@ -1,0 +1,25 @@
+<html>
+
+<head>
+
+    <link rel="stylesheet" type="text/css"
+          href="http://cdn.datatables.net/1.10.10/css/jquery.dataTables.min.css"/>
+
+    <script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js"></script>
+    <script src="http://cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js"></script>
+
+    <script src="../resource/js/layout.js"></script>
+
+</head>
+
+<body>
+
+<div>
+
+    $!screen_content
+
+</div>
+
+</body>
+
+</html>
